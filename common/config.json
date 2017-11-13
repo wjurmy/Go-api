@@ -1,0 +1,9 @@
+{
+  "Server": "8080",
+  "MongoDatabaseHost":"35.189.105.165",
+  "SqlDatabaseHost":"35.189.105.165",
+  "DatabaseUser":"root",
+  "DatabasePassword":"PSNdwuxE91LS",
+  "Database":"conclude-as-mongodb-vm-vm"
+}
+
