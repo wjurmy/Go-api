@@ -11,7 +11,7 @@ env_variables:
   # For Cloud SQL 2nd generation instances, this should be in the form of "project:region:instance".
   CLOUDSQL_CONNECTION_NAME: ownersroom-180517:europe-west1:ownersroomdatabase
   # Replace username and password if you aren't using the root user.
-  CLOUDSQL_USER: havaard
-  CLOUDSQL_PASSWORD: 'jojolovalo'
+  CLOUDSQL_USER: ##
+  CLOUDSQL_PASSWORD: '##'
 
 #  ./cloud_sql_proxy -instances="ownersroom-180517:europe-west1:ownersroomdatabase"=tcp:3306
